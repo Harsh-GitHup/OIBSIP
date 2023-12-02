@@ -1,2 +1,1 @@
-# OIBSIP-
-OASIS Infobyte Internship 
+# OIBSIP - OASIS Infobyte Internship 
